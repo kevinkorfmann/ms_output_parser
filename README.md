@@ -2,10 +2,10 @@
 
 Converting ms output.    
 Compile:    
-``console
+```console
 g++ msconvert.cpp -o msconvert   
-``
+```
 Usage:    
-``console
+```console
 msconvert ms.outfile >> output.txt   
-``
+```
