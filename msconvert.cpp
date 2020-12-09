@@ -95,7 +95,7 @@ void PrintOutput(std::vector<matrix_t> &gentype_matrices)
 
 int main(int argc, char* argv[]){
 	if (argc != 2) {
-		std::cout << "Usage: msconvert ms.outfile" << std::endl;
+		std::cout << "Usage: msconvert ms.outfile >> output.txt" << std::endl;
         return 1;
 	}
 
