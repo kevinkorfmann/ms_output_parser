@@ -1,6 +1,6 @@
 # msconvert
 
-Converting ms output.    
+Converting ms output for a research project.
 
 Compile:    
 ```console
